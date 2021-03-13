@@ -15,13 +15,13 @@ function HomePage() {
     return (
         
         <div className="hero">
-             <div className="header">
+             {/* <div className="header">
                 <div className="row">
                     <div className="col-12">
                     <Link to="/" className="navbar-brand">SB</Link>
                     </div>
                 </div>
-            </div>
+            </div> */}
         <div className="row">
         <a href="#" class="photo">
                 <img className="img" src={profilePic} />
